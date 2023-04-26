@@ -52,10 +52,10 @@ tareas a los desarrolladores de sus respectivos equipos.
 - `git push -u origin nombre-de-nuestra-rama`, para subir nuestros cambios.
 - Dirigirnos a github, crear el pull request. 
     - Rama base: `dev`, compare: `nombre-de-nuestra-rama`
-    - Poner como descripción `Closes #item`, para enlazar el item con el pull request.
     - Añadir al respectivo reviewer.
     - Creamos el pull request.
     - Avisar por el grupo de whatsapp al reviewer.
+    - Entrar al pull request, y en el espacio de 'development', asignar el issue correspondiente.
 - En el board, mover el item a review y esperar feedback. Si fue aprobado, mover el item a **Done**, 
 sino, devolverlo a **In progress** y repetir el proceso.
 
