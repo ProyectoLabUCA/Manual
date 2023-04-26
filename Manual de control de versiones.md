@@ -29,7 +29,7 @@ para que sus cambios sean aplicados al proyecto deseado.
 1. El contenido del mensaje de cada commit debe estar en español.
 2. Los commits deben ser lo más descriptivo posibles. Ejemplos:
     - 🟢 `Métodos CRUD de Usuario añadidos a UsuarioNegocio`
-    - 🟢 `Fixed some styling issues in wfGestionarUsuarios`
+    - 🟢 `Arreglados problemas de estilos en wfGestionarUsuarios`
     - 🔴 `Commit`
     - 🔴 `Usuario`
 3. Intentar hacer commits pequeños. O sea, una vez has implementado una funcionalidad,
